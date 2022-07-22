@@ -8,7 +8,6 @@ public class FileTriviaQuiz {
 
     public FileTriviaQuiz() {
     }
-
     public String getGameName() {
         return gameName;
     }
